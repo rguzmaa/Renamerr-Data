@@ -43,7 +43,6 @@
     { "group": "Company", "value": "pms", "label": "PMS" },
     { "group": "Company", "value": "publicsector", "label": "Public Sector" },
     { "group": "Company", "value": "retail", "label": "Retail" },
-    { "group": "Company", "value": "retain", "label": "Retain" },
     { "group": "Company", "value": "smn", "label": "Staples Media Network" },
     { "group": "Company", "value": "sb", "label": "Staples Business" },
     { "group": "Company", "value": "sba", "label": "Staples Business Advantage" },
