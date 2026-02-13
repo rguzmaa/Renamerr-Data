@@ -19,6 +19,9 @@
   { "group": "Product", "value": "tech", "label": "Tech" },
   { "group": "Product", "value": "travel", "label": "Travel" },
 
+  // DEV
+  { "group": "Developer", "value": "dev", "label": "Dev Category" },
+
   // SEASONAL
   { "group": "Seasonal", "value": "bts", "label": "Back to School" },
   { "group": "Seasonal", "value": "bf", "label": "Black Friday" },
