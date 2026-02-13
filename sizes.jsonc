@@ -74,6 +74,9 @@
   // TILES
   { "bannertype": "producttile", "breakpointsize": "lg", "width": 142, "minHeight": 132 },
 
+  // PUSH
+  { "bannertype": "push", "breakpointsize": "lg", "width": 480, "minHeight": 270 },
+
   // SEARCH
   { "bannertype": "search", "breakpointsize": "lg", "width": 331, "minHeight": 663 },
   { "bannertype": "search", "breakpointsize": "md", "width": 306, "minHeight": 586 },
