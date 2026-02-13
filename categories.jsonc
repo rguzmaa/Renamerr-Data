@@ -1,12 +1,12 @@
 {
   // Controls the order of group headers in the dropdown.
-  "groupOrder": ["Options", "Product", "Seasonal", "Company"],
+  "groupOrder": ["Options", "Product", "Seasonal", "Company", "Developer"],
 
   // Category options rendered in the dropdown.
   "categories": [
     // OPTIONS
     { "group": "Options", "value": "remove", "label": "Remove current" },
-
+    // Prueba3
     // PRODUCT
     { "group": "Product", "value": "breakroom", "label": "Breakroom" },
     { "group": "Product", "value": "cleaning", "label": "Cleaning" },

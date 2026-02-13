@@ -25,9 +25,6 @@
   { "bannertype": "largecard", "breakpointsize": "lg", "width": 728, "minHeight": 90 },
   { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 300, "minHeight": 250 },
 
-  // APP - Review breakpointsize
-  { "bannertype": "app", "breakpointsize": "lg", "width": 576, "minHeight": 275 },
-
   // 2ACROSS
   { "bannertype": "2across", "breakpointsize": "lg", "width": 666, "minHeight": 280 },
   { "bannertype": "2across", "breakpointsize": "md", "width": 458, "minHeight": 280 },
