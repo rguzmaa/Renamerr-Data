@@ -1,6 +1,6 @@
 {
   // Controls the order of group headers in the dropdown.
-  "groupOrder": ["Options", "Product", "Seasonal", "Company", "Developer"],
+  "groupOrder": ["Options", "Product", "Seasonal", "Company", "Months", "Developer"],
 
   // Category options rendered in the dropdown.
   "categories": [
@@ -44,7 +44,6 @@
     { "group": "Seasonal", "value": "summer", "label": "Summer" },
     { "group": "Seasonal", "value": "taxtime", "label": "Taxtime" },
     { "group": "Seasonal", "value": "thanksgiving", "label": "Thanksgiving" },
-    { "group": "Seasonal", "value": "holidaygiftguide", "label": "Holiday Gift Guide" },
     { "group": "Seasonal", "value": "valentinesday", "label": "Valentine's Day" },
 
     // COMPANY
@@ -58,6 +57,20 @@
     { "group": "Company", "value": "sba", "label": "Staples Business Advantage" },
     { "group": "Company", "value": "sbg", "label": "Staples Business Group" },
     { "group": "Company", "value": "omni", "label": "Omni" },
-    { "group": "Company", "value": "push", "label": "Push" } 
+    { "group": "Company", "value": "push", "label": "Push" },
+
+    // MONTHS
+    { "group": "Months", "value": "jan", "label": "January" },
+    { "group": "Months", "value": "feb", "label": "February" },
+    { "group": "Months", "value": "march", "label": "March" },
+    { "group": "Months", "value": "april", "label": "April" },
+    { "group": "Months", "value": "may", "label": "May" },
+    { "group": "Months", "value": "june", "label": "June" },
+    { "group": "Months", "value": "july", "label": "July" },
+    { "group": "Months", "value": "aug", "label": "August" },
+    { "group": "Months", "value": "sept", "label": "September" },
+    { "group": "Months", "value": "oct", "label": "October" },
+    { "group": "Months", "value": "nov", "label": "November" },
+    { "group": "Months", "value": "dec", "label": "December" }
   ]
 }
