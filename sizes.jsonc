@@ -6,10 +6,10 @@
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
 
   // SLIVER
-  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 180 },
-  { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "minHeight": 128 },
-  { "bannertype": "sliver", "breakpointsize": "sm", "width": 820, "minHeight": 180 },
-  { "bannertype": "sliver", "breakpointsize": "xs", "width": 600, "minHeight": 184 },
+  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 180, "maxHeight": 419 },
+  { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "minHeight": 128, "maxHeight": 297 },
+  { "bannertype": "sliver", "breakpointsize": "sm", "width": 820, "minHeight": 180, "maxHeight": 1184 },
+  { "bannertype": "sliver", "breakpointsize": "xs", "width": 600, "minHeight": 184, "maxHeight": 856 },
   // --- ONSITE - These need proper bannertypes
   { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 60 },
   { "bannertype": "sliver", "breakpointsize": "md", "width": 1150, "minHeight": 40 },
