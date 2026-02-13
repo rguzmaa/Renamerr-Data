@@ -6,7 +6,7 @@
   "categories": [
     // OPTIONS
     { "group": "Options", "value": "remove", "label": "Remove current" },
-    // Prueba4
+ 
     // PRODUCT
     { "group": "Product", "value": "breakroom", "label": "Breakroom" },
     { "group": "Product", "value": "cleaning", "label": "Cleaning" },
