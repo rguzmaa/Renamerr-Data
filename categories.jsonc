@@ -47,6 +47,8 @@
     { "group": "Company", "value": "smn", "label": "Staples Media Network" },
     { "group": "Company", "value": "sb", "label": "Staples Business" },
     { "group": "Company", "value": "sba", "label": "Staples Business Advantage" },
-    { "group": "Company", "value": "sbg", "label": "Staples Business Group" }
+    { "group": "Company", "value": "sbg", "label": "Staples Business Group" },
+    { "group": "Company", "value": "omni", "label": "Omni" },
+    { "group": "Company", "value": "push", "label": "Push" } 
   ]
 }
