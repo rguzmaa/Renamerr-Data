@@ -1,0 +1,129 @@
+[
+  // HERO
+  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 420 },
+  { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
+  { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "minHeight": 1185 },
+  { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
+
+  // SLIVER
+  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 180 },
+  { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "minHeight": 128 },
+  { "bannertype": "sliver", "breakpointsize": "sm", "width": 820, "minHeight": 180 },
+  { "bannertype": "sliver", "breakpointsize": "xs", "width": 600, "minHeight": 184 },
+  // --- ONSITE - These need proper bannertypes
+  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 60 },
+  { "bannertype": "sliver", "breakpointsize": "md", "width": 1150, "minHeight": 40 },
+  { "bannertype": "sliver", "breakpointsize": "sm", "width": 970, "minHeight": 90 },  
+  { "bannertype": "sliver", "breakpointsize": "xs", "width": 728, "minHeight": 90 },
+  { "bannertype": "sliver", "breakpointsize": "xs", "width": 320, "minHeight": 50 },
+  { "bannertype": "sliver", "breakpointsize": "xs", "width": 500, "minHeight": 50 },
+  // --- OFFSITE - These need proper bannertypes
+  { "bannertype": "largecard", "breakpointsize": "lg", "width": 300, "minHeight": 600 },
+  { "bannertype": "largecard", "breakpointsize": "md", "width": 320, "minHeight": 480 },
+  { "bannertype": "sliver", "breakpointsize": "xs", "width": 320, "minHeight": 50 },  
+  { "bannertype": "largecard", "breakpointsize": "lg", "width": 160, "minHeight": 600 },
+  { "bannertype": "largecard", "breakpointsize": "lg", "width": 728, "minHeight": 90 },
+  { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 300, "minHeight": 250 },
+
+  // APP - Review breakpointsize
+  { "bannertype": "app", "breakpointsize": "lg", "width": 576, "minHeight": 275 },
+
+  // 2ACROSS
+  { "bannertype": "2across", "breakpointsize": "lg", "width": 666, "minHeight": 280 },
+  { "bannertype": "2across", "breakpointsize": "md", "width": 458, "minHeight": 280 },
+  { "bannertype": "2across", "breakpointsize": "sm", "width": 808, "minHeight": 252 },
+  { "bannertype": "2across", "breakpointsize": "xs", "width": 588, "minHeight": 210 },
+
+  // 3ACROSS
+  { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "minHeight": 252 },
+  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "minHeight": 252 },
+  { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "minHeight": 252 },
+  { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "minHeight": 410 },
+  // LIVE
+  { "bannertype": "3across", "breakpointsize": "lg", "width": 456, "minHeight": 636 },
+  { "bannertype": "3across", "breakpointsize": "md", "width": 316, "minHeight": 540 },
+  { "bannertype": "3across", "breakpointsize": "sm", "width": 792, "minHeight": 370 },
+  { "bannertype": "3across", "breakpointsize": "xs", "width": 576, "minHeight": 518 },
+
+  // 4ACROSS
+  { "bannertype": "4across", "breakpointsize": "lg", "width": 315, "minHeight": 400 },
+  { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 289 },
+  { "bannertype": "4across", "breakpointsize": "sm", "width": 366, "minHeight": 400 },
+  { "bannertype": "4across", "breakpointsize": "xs", "width": 588, "minHeight": 410 },
+  // --- SBA
+  { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 400 },
+  { "bannertype": "4across", "breakpointsize": "xs", "width": 551, "minHeight": 410 },
+
+  // LARGECARD
+  { "bannertype": "largecard", "breakpointsize": "lg", "width": 690, "minHeight": 540 },
+  { "bannertype": "largecard", "breakpointsize": "md", "width": 480, "minHeight": 372 },
+  { "bannertype": "largecard", "breakpointsize": "sm", "width": 792, "minHeight": 792 },
+  { "bannertype": "largecard", "breakpointsize": "xs", "width": 576, "minHeight": 576 },
+
+  // MEDIUMCARD
+  { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 339, "minHeight": 540 },
+  { "bannertype": "mediumcard", "breakpointsize": "md", "width": 234, "minHeight": 372 },
+  { "bannertype": "mediumcard", "breakpointsize": "sm", "width": 792, "minHeight": 390 },
+  { "bannertype": "mediumcard", "breakpointsize": "xs", "width": 576, "minHeight": 282 },
+
+  // SMALLCARD
+  { "bannertype": "smallcard", "breakpointsize": "lg", "width": 339, "minHeight": 264 },
+  { "bannertype": "smallcard", "breakpointsize": "md", "width": 234, "minHeight": 180 },
+  { "bannertype": "smallcard", "breakpointsize": "sm", "width": 390, "minHeight": 390 },
+  { "bannertype": "smallcard", "breakpointsize": "xs", "width": 282, "minHeight": 282 },
+
+  // 4BY
+  { "bannertype": "4by", "breakpointsize": "lg", "width": 336, "minHeight": 480 },
+  // TILES
+  { "bannertype": "producttile", "breakpointsize": "lg", "width": 142, "minHeight": 132 },
+
+  // SEARCH
+  { "bannertype": "search", "breakpointsize": "lg", "width": 331, "minHeight": 663 },
+  { "bannertype": "search", "breakpointsize": "md", "width": 306, "minHeight": 586 },
+  // --- 2
+  { "bannertype": "search", "breakpointsize": "lg", "width": 1395, "minHeight": 422 },
+  { "bannertype": "search", "breakpointsize": "md", "width": 941.5, "minHeight": 460 },
+  // --- 3
+  { "bannertype": "search", "breakpointsize": "xs", "width": 600, "minHeight": 600 },
+
+  // PDP
+  { "bannertype": "pdp", "breakpointsize": "lg", "width": 547, "minHeight": 97 },
+  { "bannertype": "pdp", "breakpointsize": "md", "width": 466, "minHeight": 83 },
+  { "bannertype": "pdp", "breakpointsize": "sm", "width": 389, "minHeight": 83 },
+  { "bannertype": "pdp", "breakpointsize": "xs", "width": 565, "minHeight": 100 },
+
+  // FLYOUT
+  { "bannertype": "flyout", "breakpointsize": "lg", "width": 237, "minHeight": 600 },
+  { "bannertype": "flyout", "breakpointsize": "md", "width": 790, "minHeight": 145 },
+  { "bannertype": "flyout", "breakpointsize": "sm", "width": 505, "minHeight": 200 },
+
+  // CAROUSEL
+  { "bannertype": "carousel", "breakpointsize": "lg", "width": 277, "minHeight": 354 },
+  { "bannertype": "carousel", "breakpointsize": "md", "width": 238, "minHeight": 354 },
+  { "bannertype": "carousel", "breakpointsize": "sm", "width": 208, "minHeight": 208 },
+  { "bannertype": "carousel", "breakpointsize": "xs", "width": 576, "minHeight": 230 },
+  // --- 2
+  { "bannertype": "carousel", "breakpointsize": "lg", "width": 277, "minHeight": 264 },
+  { "bannertype": "carousel", "breakpointsize": "md", "width": 238, "minHeight": 254 },
+  { "bannertype": "carousel", "breakpointsize": "sm", "width": 208, "minHeight": 248 },
+  { "bannertype": "carousel", "breakpointsize": "xs", "width": 506, "minHeight": 222 },
+
+  // WALLPAPER
+  { "bannertype": "wallpaper", "breakpointsize": "lg", "width": 1440, "minHeight": 530 },
+
+  // POPCAT
+  { "bannertype": "popcat", "breakpointsize": "lg", "width": 166, "minHeight": 166 },
+
+
+  // ARTICLE
+  { "bannertype": "article", "breakpointsize": "lg", "width": 372, "minHeight": 200 },
+  { "bannertype": "article", "breakpointsize": "md", "width": 230, "minHeight": 160 },
+  { "bannertype": "article", "breakpointsize": "sm", "width": 356, "minHeight": 160 },
+  { "bannertype": "article", "breakpointsize": "xs", "width": 542, "minHeight": 160 },
+
+
+  // FOR TESTING
+  { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1569, "minHeight": 756 },
+  { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1234, "minHeight": 1234 },
+  { "bannertype": "devsize", "breakpointsize": "devsize", "width": 787, "minHeight": 787 }
+]

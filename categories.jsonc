@@ -1,0 +1,46 @@
+[
+  // OPTIONS
+  { "group": "Options", "value": "remove", "label": "Remove current" },
+
+  // PRODUCT
+  { "group": "Product", "value": "breakroom", "label": "Breakroom" },
+  { "group": "Product", "value": "cleaning", "label": "Cleaning" },
+  { "group": "Product", "value": "customprints", "label": "Custom Prints" },
+  { "group": "Product", "value": "easyrewards", "label": "Easy Rewards" },
+  { "group": "Product", "value": "facilities", "label": "Facilities" },
+  { "group": "Product", "value": "furniture", "label": "Furniture" },
+  { "group": "Product", "value": "inktoner", "label": "Ink & Toner" },
+  { "group": "Product", "value": "mydeals", "label": "My Deals" },
+  { "group": "Product", "value": "officesupplies", "label": "Office Supplies" },
+  { "group": "Product", "value": "paper", "label": "Paper" },
+  { "group": "Product", "value": "printers", "label": "Printers" },
+  { "group": "Product", "value": "promo", "label": "Promo" },
+  { "group": "Product", "value": "shipping", "label": "Shipping" },
+  { "group": "Product", "value": "tech", "label": "Tech" },
+  { "group": "Product", "value": "travel", "label": "Travel" },
+
+  // SEASONAL
+  { "group": "Seasonal", "value": "bts", "label": "Back to School" },
+  { "group": "Seasonal", "value": "bf", "label": "Black Friday" },
+  { "group": "Seasonal", "value": "cm", "label": "Cyber Monday" },
+  { "group": "Seasonal", "value": "cw", "label": "Cyber Week" },
+  { "group": "Seasonal", "value": "halloween", "label": "Halloween" },
+  { "group": "Seasonal", "value": "holiday", "label": "Holiday" },
+  { "group": "Seasonal", "value": "spring", "label": "Spring" },
+  { "group": "Seasonal", "value": "summer", "label": "Summer" },
+  { "group": "Seasonal", "value": "taxtime", "label": "Taxtime" },
+  { "group": "Seasonal", "value": "valentinesday", "label": "Valentine's Day" },
+
+  // COMPANY
+  { "group": "Company", "value": "healthcare", "label": "Healthcare" },
+  { "group": "Company", "value": "dc", "label": "Dotcom" },
+  { "group": "Company", "value": "os", "label": "OS" },
+  { "group": "Company", "value": "pms", "label": "PMS" },
+  { "group": "Company", "value": "publicsector", "label": "Public Sector" },
+  { "group": "Company", "value": "retail", "label": "Retail" },
+  { "group": "Company", "value": "retain", "label": "Retain" },
+  { "group": "Company", "value": "smn", "label": "Staples Media Network" },
+  { "group": "Company", "value": "sb", "label": "Staples Business" },
+  { "group": "Company", "value": "sba", "label": "Staples Business Advantage" },
+  { "group": "Company", "value": "sbg", "label": "Staples Business Group" }
+]
