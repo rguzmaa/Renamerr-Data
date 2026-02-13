@@ -20,7 +20,7 @@
   { "group": "Product", "value": "travel", "label": "Travel" },
 
   // DEV
-  { "group": "Developer", "value": "dev", "label": "Dev Category" },
+  { "group": "Developer", "value": "dev", "label": "DevssCategory" },
 
   // SEASONAL
   { "group": "Seasonal", "value": "bts", "label": "Back to School" },
