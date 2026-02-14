@@ -1,8 +1,8 @@
 [
 
-  //NOTE: If different bannertypes have the same width, they should have the same targetHeight.
+  // NOTE: If different bannertypes have the same width, they should have the same targetHeight.
   // HERO
-  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "targetHeight": 420, "minHeight": 370, "maxHeight": 500 },
+  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "targetHeight": 420, "minHeight": 315, "maxHeight": 500 },
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
   { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "minHeight": 1185 },
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
@@ -11,7 +11,6 @@
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "targetHeight": 290, "minHeight": 290, "maxHeight": 290 },
   { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "targetHeight": 290, "minHeight": 290, "maxHeight": 290 },  
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "targetHeight": 290, "minHeight": 290, "maxHeight": 290 },
-  
   
   
   // SLIVER
@@ -34,6 +33,7 @@
   { "bannertype": "largecard", "breakpointsize": "lg", "width": 728, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },
   { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 300, "targetHeight": 250, "minHeight": 250, "maxHeight": 250 },
 
+
   // 2ACROSS
   // --- 50/50
   { "bannertype": "2across", "breakpointsize": "lg", "width": 666, "targetHeight": 252, "minHeight": 252, "maxHeight": 300 },
@@ -41,9 +41,11 @@
   { "bannertype": "2across", "breakpointsize": "sm", "width": 808, "targetHeight": 252, "minHeight": 252, "maxHeight": 252 },
   { "bannertype": "2across", "breakpointsize": "xs", "width": 588, "targetHeight": 410, "minHeight": 410, "maxHeight": 410 },
 
+
   // HOTSPOTS
   { "bannertype": "hotspot", "breakpointsize": "lg", "width": 1440, "minHeight": 574 },
   { "bannertype": "hotspot", "breakpointsize": "sm", "width": 820, "minHeight": 1247 },
+
 
   // 3ACROSS
   { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "targetHeight": 313, "minHeight": 313, "maxHeight": 323 },
@@ -56,6 +58,7 @@
   { "bannertype": "3across", "breakpointsize": "sm", "width": 792, "minHeight": 370 },
   { "bannertype": "3across", "breakpointsize": "xs", "width": 576, "minHeight": 518 },
 
+
   // 4ACROSS
   { "bannertype": "4across", "breakpointsize": "lg", "width": 315, "targetHeight": 400, "minHeight": 355, "maxHeight": 400 },
   { "bannertype": "4across", "breakpointsize": "md", "width": 458, "targetHeight": 266, "minHeight": 266, "maxHeight": 289 },
@@ -65,11 +68,13 @@
   { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 400, "maxHeight": 400 },
   { "bannertype": "4across", "breakpointsize": "xs", "width": 551, "minHeight": 410, "maxHeight": 410 },
 
+
   // LARGECARD
   { "bannertype": "largecard", "breakpointsize": "lg", "width": 690, "minHeight": 540 },
   { "bannertype": "largecard", "breakpointsize": "md", "width": 480, "minHeight": 372 },
   { "bannertype": "largecard", "breakpointsize": "sm", "width": 792, "minHeight": 792 },
   { "bannertype": "largecard", "breakpointsize": "xs", "width": 576, "minHeight": 576 },
+
 
   // MEDIUMCARD
   { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 339, "minHeight": 540 },
@@ -77,19 +82,23 @@
   { "bannertype": "mediumcard", "breakpointsize": "sm", "width": 792, "minHeight": 390 },
   { "bannertype": "mediumcard", "breakpointsize": "xs", "width": 576, "minHeight": 282 },
 
+
   // SMALLCARD
   { "bannertype": "smallcard", "breakpointsize": "lg", "width": 339, "minHeight": 264 },
   { "bannertype": "smallcard", "breakpointsize": "md", "width": 234, "minHeight": 180 },
   { "bannertype": "smallcard", "breakpointsize": "sm", "width": 390, "minHeight": 390 },
   { "bannertype": "smallcard", "breakpointsize": "xs", "width": 282, "minHeight": 282 },
 
+
   // 4BY
   { "bannertype": "4by", "breakpointsize": "lg", "width": 336, "minHeight": 480 },
-  // --- TILES
-  { "bannertype": "producttile", "breakpointsize": "lg", "width": 142, "minHeight": 132 },
+  // --- Small product tiles
+  { "bannertype": "producttile", "breakpointsize": "lg", "width": 142, "targetHeight": 142, "minHeight": 132, "maxHeight": 159 },
+
 
   // PUSH
   { "bannertype": "push", "breakpointsize": "lg", "width": 480, "minHeight": 270 },
+
 
   // SEARCH
   { "bannertype": "search", "breakpointsize": "lg", "width": 331, "minHeight": 663 },
@@ -100,16 +109,19 @@
   // --- 3
   { "bannertype": "search", "breakpointsize": "xs", "width": 600, "minHeight": 600 },
 
+
   // PDP
   { "bannertype": "pdp", "breakpointsize": "lg", "width": 547, "minHeight": 97 },
   { "bannertype": "pdp", "breakpointsize": "md", "width": 466, "minHeight": 83 },
   { "bannertype": "pdp", "breakpointsize": "sm", "width": 389, "minHeight": 83 },
   { "bannertype": "pdp", "breakpointsize": "xs", "width": 565, "minHeight": 100 },
 
+
   // FLYOUT
   { "bannertype": "flyout", "breakpointsize": "lg", "width": 237, "minHeight": 600 },
   { "bannertype": "flyout", "breakpointsize": "md", "width": 790, "minHeight": 145 },
   { "bannertype": "flyout", "breakpointsize": "sm", "width": 505, "minHeight": 200 },
+
 
   // CAROUSEL
   // --- Signed in
@@ -133,8 +145,10 @@
   { "bannertype": "wallpaper", "breakpointsize": "sm", "width": 820, "minHeight": 372, "maxHeight": 372 },
   { "bannertype": "wallpaper", "breakpointsize": "xs", "width": 600, "minHeight": 504, "maxHeight": 504 },
 
+
   // WALLPAPER - Goes behind vignettes
   { "bannertype": "wallpaper", "breakpointsize": "lg", "width": 1440, "minHeight": 550, "maxHeight": 600 },
+
 
   // POPCAT
   { "bannertype": "popcat", "breakpointsize": "lg", "width": 166, "minHeight": 166 },
