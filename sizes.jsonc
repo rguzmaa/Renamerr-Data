@@ -1,4 +1,6 @@
 [
+
+  //NOTE: If different bannertypes have the same width, they should have the same targetHeight.
   // HERO
   { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "targetHeight": 420, "minHeight": 370, "maxHeight": 500 },
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
@@ -38,7 +40,7 @@
 
   // 3ACROSS
   { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "targetHeight": 313, "minHeight": 313, "maxHeight": 323 },
-  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "targetHeight": 340, "minHeight": 240, "maxHeight": 340 },
+  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "targetHeight": 340, "minHeight": 340, "maxHeight": 340 },
   { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "targetHeight": 252, "minHeight": 252, "maxHeight": 262 },
   { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "targetHeight": 410, "minHeight": 410, "maxHeight": 420 },
   // --- LIVE
