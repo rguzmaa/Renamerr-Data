@@ -139,12 +139,12 @@
   // --- Signed in
   { "bannertype": "carousel", "breakpointsize": "lg", "width": 277, "targetHeight": 354, "minHeight": 354, "maxHeight":354 },
   { "bannertype": "carousel", "breakpointsize": "md", "width": 238, "targetHeight": 354, "minHeight": 354, "maxHeight": 354 },
-  { "bannertype": "carousel", "breakpointsize": "sm", "width": 208, "targetHeight": 338, "minHeight": 338, "maxHeight": 338 },
+  { "bannertype": "carousel", "breakpointsize": "sm", "width": 204, "targetHeight": 338, "minHeight": 338, "maxHeight": 338 },
   { "bannertype": "carousel", "breakpointsize": "xs", "width": 576, "targetHeight": 230, "minHeight": 230, "maxHeight": 230 },
   // --- Signed out
   { "bannertype": "carousel", "breakpointsize": "lg", "width": 277, "targetHeight": 264, "minHeight": 264, "maxHeight": 264 },
-  { "bannertype": "carousel", "breakpointsize": "md", "width": 238, "targetHeight": 254, "minHeight": 254, "maxHeight": 254 },
-  { "bannertype": "carousel", "breakpointsize": "sm", "width": 208, "targetHeight": 248, "minHeight": 248, "maxHeight": 248 },
+  { "bannertype": "carousel", "breakpointsize": "md", "width": 238, "targetHeight": 264, "minHeight": 264, "maxHeight": 264 },
+  { "bannertype": "carousel", "breakpointsize": "sm", "width": 204, "targetHeight": 248, "minHeight": 248, "maxHeight": 248 },
   { "bannertype": "carousel", "breakpointsize": "xs", "width": 506, "targetHeight": 222, "minHeight": 222, "maxHeight": 222 },
   // --- Wallpaper - Signed out
   { "bannertype": "carousel", "breakpointsize": "lg", "width": 1440, "targetHeight": 280, "minHeight": 280, "maxHeight": 280 },
