@@ -1,6 +1,6 @@
 [
   // HERO
-  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 420 },
+  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 370 },
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
   { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "minHeight": 1185 },
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
