@@ -36,10 +36,10 @@
   { "bannertype": "hotspot", "breakpointsize": "sm", "width": 820, "minHeight": 1247 },
 
   // 3ACROSS
-  { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "minHeight": 252 },
-  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "minHeight": 252 },
-  { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "minHeight": 252 },
-  { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "minHeight": 410 },
+  { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "minHeight": 313, "maxHeight": 323 },
+  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "minHeight": 340, "maxHeight": 250 },
+  { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "minHeight": 252, "maxHeight": 262 },
+  { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "minHeight": 410, "maxHeight": 420 },
   // --- LIVE
   { "bannertype": "3across", "breakpointsize": "lg", "width": 456, "minHeight": 636 },
   { "bannertype": "3across", "breakpointsize": "md", "width": 316, "minHeight": 540 },
