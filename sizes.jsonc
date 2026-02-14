@@ -164,5 +164,5 @@
   // FOR TESTING
   { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1569, "minHeight": 756 },
   { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1234, "minHeight": 1234 },
-  { "bannertype": "lOLO", "breakpointsize": "cokok", "width": 787, "minHeight": 787 }
+  { "bannertype": "DEV", "breakpointsize": "DEV", "width": 787, "minHeight": 787 }
 ]
