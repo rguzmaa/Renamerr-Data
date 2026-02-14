@@ -107,13 +107,16 @@
 
 
   // SEARCH - Fixed
+  // --- Grid
   { "bannertype": "search", "breakpointsize": "lg", "width": 331, "targetHeight": 663, "minHeight": 663, "maxHeight": 663 },
   { "bannertype": "search", "breakpointsize": "md", "width": 306, "targetHeight": 586, "minHeight": 586, "maxHeight": 586 },
-  // --- 2
+  // --- List 
   { "bannertype": "search", "breakpointsize": "lg", "width": 1395, "targetHeight": 422, "minHeight": 422, "maxHeight": 422 },
   { "bannertype": "search", "breakpointsize": "md", "width": 941.5, "targetHeight": 460, "minHeight": 460, "maxHeight": 460 },
-  // --- 3
+  // --- Mobile
   { "bannertype": "search", "breakpointsize": "xs", "width": 600, "targetHeight": 600, "minHeight": 600, "maxHeight": 600 },
+  // --- Mobile Old size?
+  { "bannertype": "search", "breakpointsize": "xs", "width": 588, "targetHeight": 470, "minHeight": 470, "maxHeight": 470 },
 
 
   // PDP - Fixed
