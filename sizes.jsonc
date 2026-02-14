@@ -1,12 +1,12 @@
 [
   // HERO
-  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 370, "maxHeight": 500 },
+  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 370, "maxHeight": 500, "targetHeight": 420 },
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
   { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "minHeight": 1185 },
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
 
   // SLIVER -- Added uses max height to prevent confusion with Hero banners
-  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 180, "maxHeight": 297 },
+  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 180, "maxHeight": 297, "targetHeight": 220 },
   { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "minHeight": 128, "maxHeight": 297 },
   { "bannertype": "sliver", "breakpointsize": "sm", "width": 820, "minHeight": 180, "maxHeight": 1184 },
   { "bannertype": "sliver", "breakpointsize": "xs", "width": 600, "minHeight": 184, "maxHeight": 856 },
@@ -26,20 +26,20 @@
   { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 300, "minHeight": 250 },
 
   // 2ACROSS
-  { "bannertype": "2across", "breakpointsize": "lg", "width": 666, "minHeight": 252, "maxHeight": 300 },
-  { "bannertype": "2across", "breakpointsize": "md", "width": 458, "minHeight": 252, "maxHeight": 281 },
-  { "bannertype": "2across", "breakpointsize": "sm", "width": 808, "minHeight": 252, "maxHeight": 252 },
-  { "bannertype": "2across", "breakpointsize": "xs", "width": 588, "minHeight": 410, "maxHeight": 410 },
+  { "bannertype": "2across", "breakpointsize": "lg", "width": 666, "minHeight": 252, "maxHeight": 300, "targetHeight": 288 },
+  { "bannertype": "2across", "breakpointsize": "md", "width": 458, "minHeight": 252, "maxHeight": 281, "targetHeight": 281 },
+  { "bannertype": "2across", "breakpointsize": "sm", "width": 808, "minHeight": 252, "maxHeight": 252, "targetHeight": 252 },
+  { "bannertype": "2across", "breakpointsize": "xs", "width": 588, "minHeight": 410, "maxHeight": 410, "targetHeight": 410 },
 
   // HOTSPOTS
   { "bannertype": "hotspot", "breakpointsize": "lg", "width": 1440, "minHeight": 574 },
   { "bannertype": "hotspot", "breakpointsize": "sm", "width": 820, "minHeight": 1247 },
 
   // 3ACROSS
-  { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "minHeight": 313, "maxHeight": 323 },
-  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "minHeight": 340, "maxHeight": 250 },
-  { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "minHeight": 252, "maxHeight": 262 },
-  { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "minHeight": 410, "maxHeight": 420 },
+  { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "minHeight": 313, "maxHeight": 323, "targetHeight": 313 },
+  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "minHeight": 340, "maxHeight": 250, "targetHeight": 240 },
+  { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "minHeight": 252, "maxHeight": 262, "targetHeight": 252 },
+  { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "minHeight": 410, "maxHeight": 420, "targetHeight": 410 },
   // --- LIVE
   { "bannertype": "3across", "breakpointsize": "lg", "width": 456, "minHeight": 636 },
   { "bannertype": "3across", "breakpointsize": "md", "width": 316, "minHeight": 540 },
@@ -47,10 +47,10 @@
   { "bannertype": "3across", "breakpointsize": "xs", "width": 576, "minHeight": 518 },
 
   // 4ACROSS
-  { "bannertype": "4across", "breakpointsize": "lg", "width": 315, "minHeight": 355, "maxHeight": 400 },
-  { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 266, "maxHeight": 289 },
-  { "bannertype": "4across", "breakpointsize": "sm", "width": 366, "minHeight": 250, "maxHeight": 430 },
-  { "bannertype": "4across", "breakpointsize": "xs", "width": 588, "minHeight": 320, "maxHeight": 410 },
+  { "bannertype": "4across", "breakpointsize": "lg", "width": 315, "minHeight": 355, "maxHeight": 400, "targetHeight": 400 },
+  { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 266, "maxHeight": 289, "targetHeight": 289 },
+  { "bannertype": "4across", "breakpointsize": "sm", "width": 366, "minHeight": 250, "maxHeight": 430, "targetHeight": 430 },
+  { "bannertype": "4across", "breakpointsize": "xs", "width": 588, "minHeight": 320, "maxHeight": 410, "targetHeight": 410 },
   // --- SBA
   { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 400, "maxHeight": 400 },
   { "bannertype": "4across", "breakpointsize": "xs", "width": 551, "minHeight": 410, "maxHeight": 410 },
