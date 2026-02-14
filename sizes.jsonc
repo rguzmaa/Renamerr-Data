@@ -141,15 +141,15 @@
   { "bannertype": "carousel", "breakpointsize": "sm", "width": 208, "targetHeight": 248, "minHeight": 248, "maxHeight": 248 },
   { "bannertype": "carousel", "breakpointsize": "xs", "width": 506, "targetHeight": 222, "minHeight": 222, "maxHeight": 222 },
   // --- Wallpaper - Signed out
-  { "bannertype": "wallpaper", "breakpointsize": "lg", "width": 1440, "targetHeight": 280, "minHeight": 280, "maxHeight": 280 },
-  { "bannertype": "wallpaper", "breakpointsize": "md", "width": 1024, "targetHeight": 280, "minHeight": 280, "maxHeight": 280 },
-  { "bannertype": "wallpaper", "breakpointsize": "sm", "width": 820, "targetHeight": 297, "minHeight": 297, "maxHeight": 297 },
-  { "bannertype": "wallpaper", "breakpointsize": "xs", "width": 600, "targetHeight": 325, "minHeight": 325, "maxHeight": 325 },
+  { "bannertype": "carousel", "breakpointsize": "lg", "width": 1440, "targetHeight": 280, "minHeight": 280, "maxHeight": 280 },
+  { "bannertype": "carousel", "breakpointsize": "md", "width": 1024, "targetHeight": 280, "minHeight": 280, "maxHeight": 280 },
+  { "bannertype": "carousel", "breakpointsize": "sm", "width": 820, "targetHeight": 297, "minHeight": 297, "maxHeight": 297 },
+  { "bannertype": "carousel", "breakpointsize": "xs", "width": 600, "targetHeight": 325, "minHeight": 325, "maxHeight": 325 },
   // --- Wallpaper - Signed in
-  { "bannertype": "wallpaper", "breakpointsize": "lg", "width": 1440, "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
-  { "bannertype": "wallpaper", "breakpointsize": "md", "width": 1024, "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
-  { "bannertype": "wallpaper", "breakpointsize": "sm", "width": 820,  "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
-  { "bannertype": "wallpaper", "breakpointsize": "xs", "width": 600,  "targetHeight": 504, "minHeight": 504, "maxHeight": 504 },
+  { "bannertype": "carousel", "breakpointsize": "lg", "width": 1440, "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
+  { "bannertype": "carousel", "breakpointsize": "md", "width": 1024, "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
+  { "bannertype": "carousel", "breakpointsize": "sm", "width": 820,  "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
+  { "bannertype": "carousel", "breakpointsize": "xs", "width": 600,  "targetHeight": 504, "minHeight": 504, "maxHeight": 504 },
 
 
   // WALLPAPER - Goes behind vignettes
