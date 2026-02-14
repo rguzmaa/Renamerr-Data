@@ -1,11 +1,11 @@
 [
   // HERO
-  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 370 },
+  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "minHeight": 370, "maxHeight": 500 },
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
   { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "minHeight": 1185 },
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
 
-  // SLIVER
+  // SLIVER -- Added uses max height to prevent confusion with Hero banners
   { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "minHeight": 180, "maxHeight": 297 },
   { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "minHeight": 128, "maxHeight": 297 },
   { "bannertype": "sliver", "breakpointsize": "sm", "width": 820, "minHeight": 180, "maxHeight": 1184 },
@@ -31,12 +31,16 @@
   { "bannertype": "2across", "breakpointsize": "sm", "width": 808, "minHeight": 252 },
   { "bannertype": "2across", "breakpointsize": "xs", "width": 588, "minHeight": 210 },
 
+  // HOTSPOTS
+  { "bannertype": "hotspot", "breakpointsize": "lg", "width": 1440, "minHeight": 574 },
+  { "bannertype": "hotspot", "breakpointsize": "sm", "width": 820, "minHeight": 1247 },
+
   // 3ACROSS
   { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "minHeight": 252 },
   { "bannertype": "3across", "breakpointsize": "md", "width": 293, "minHeight": 252 },
   { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "minHeight": 252 },
   { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "minHeight": 410 },
-  // LIVE
+  // --- LIVE
   { "bannertype": "3across", "breakpointsize": "lg", "width": 456, "minHeight": 636 },
   { "bannertype": "3across", "breakpointsize": "md", "width": 316, "minHeight": 540 },
   { "bannertype": "3across", "breakpointsize": "sm", "width": 792, "minHeight": 370 },
@@ -71,7 +75,7 @@
 
   // 4BY
   { "bannertype": "4by", "breakpointsize": "lg", "width": 336, "minHeight": 480 },
-  // TILES
+  // --- TILES
   { "bannertype": "producttile", "breakpointsize": "lg", "width": 142, "minHeight": 132 },
 
   // PUSH
