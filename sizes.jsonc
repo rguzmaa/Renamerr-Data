@@ -24,20 +24,23 @@
   // --- TALL BANNER - Fixed
   { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "targetHeight": 500, "minHeight": 500, "maxHeight": 500 },
   { "bannertype": "sliver", "breakpointsize": "md", "width": 820, "targetHeight": 380, "minHeight": 380, "maxHeight": 380 },
+
+
+
   // --- ONSITE -  Fixed
-  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "targetHeight": 60, "minHeight": 60, "maxHeight": 60 },
-  { "bannertype": "sliver", "breakpointsize": "md", "width": 1150, "targetHeight": 40, "minHeight": 40, "maxHeight": 40 },
-  { "bannertype": "sliver", "breakpointsize": "sm", "width": 970, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },  
-  { "bannertype": "sliver", "breakpointsize": "xs", "width": 728, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },
-  { "bannertype": "sliver", "breakpointsize": "xs", "width": 320, "targetHeight": 50, "minHeight": 50, "maxHeight": 50},
-  { "bannertype": "sliver", "breakpointsize": "xs", "width": 500, "targetHeight": 50, "minHeight": 50, "maxHeight": 50 },
+  { "bannertype": "onsite", "breakpointsize": "NA", "width": 1440, "targetHeight": 60, "minHeight": 60, "maxHeight": 60 },
+  { "bannertype": "onsite", "breakpointsize": "NA", "width": 1150, "targetHeight": 40, "minHeight": 40, "maxHeight": 40 },
+  { "bannertype": "onsite", "breakpointsize": "NA", "width": 970, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },  
+  { "bannertype": "onsite", "breakpointsize": "NA", "width": 728, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },
+  { "bannertype": "onsite", "breakpointsize": "NA", "width": 320, "targetHeight": 50, "minHeight": 50, "maxHeight": 50},
+  { "bannertype": "onsite", "breakpointsize": "NA", "width": 500, "targetHeight": 50, "minHeight": 50, "maxHeight": 50 },
   // --- OFFSITE -  Fixed
-  { "bannertype": "largecard", "breakpointsize": "lg", "width": 300, "targetHeight": 600, "minHeight": 600, "maxHeight": 600 },
-  { "bannertype": "largecard", "breakpointsize": "md", "width": 320, "targetHeight": 480, "minHeight": 480, "maxHeight": 480 },
-  { "bannertype": "sliver", "breakpointsize": "xs", "width": 320, "targetHeight": 50, "minHeight": 50, "maxHeight": 50 },  
-  { "bannertype": "largecard", "breakpointsize": "lg", "width": 160, "targetHeight": 600, "minHeight": 600, "maxHeight": 600 },
-  { "bannertype": "largecard", "breakpointsize": "lg", "width": 728, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },
-  { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 300, "targetHeight": 250, "minHeight": 250, "maxHeight": 250 },
+  { "bannertype": "offsite", "breakpointsize": "NA", "width": 300, "targetHeight": 600, "minHeight": 600, "maxHeight": 600 },
+  { "bannertype": "offsite", "breakpointsize": "NA", "width": 320, "targetHeight": 480, "minHeight": 480, "maxHeight": 480 },
+  { "bannertype": "offsite", "breakpointsize": "NA", "width": 320, "targetHeight": 50, "minHeight": 50, "maxHeight": 50 },  
+  { "bannertype": "offsite", "breakpointsize": "NA", "width": 160, "targetHeight": 600, "minHeight": 600, "maxHeight": 600 },
+  { "bannertype": "offsite", "breakpointsize": "NA", "width": 728, "targetHeight": 90, "minHeight": 90, "maxHeight": 90 },
+  { "bannertype": "offsite", "breakpointsize": "NA", "width": 300, "targetHeight": 250, "minHeight": 250, "maxHeight": 250 },
 
 
   // 2ACROSS
