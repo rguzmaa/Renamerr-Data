@@ -38,7 +38,7 @@
 
   // 3ACROSS
   { "bannertype": "3across", "breakpointsize": "lg", "width": 432, "targetHeight": 313, "minHeight": 313, "maxHeight": 323 },
-  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "targetHeight": 240, "minHeight": 340, "maxHeight": 250 },
+  { "bannertype": "3across", "breakpointsize": "md", "width": 293, "targetHeight": 340, "minHeight": 240, "maxHeight": 340 },
   { "bannertype": "3across", "breakpointsize": "sm", "width": 808, "targetHeight": 252, "minHeight": 252, "maxHeight": 262 },
   { "bannertype": "3across", "breakpointsize": "xs", "width": 588, "targetHeight": 410, "minHeight": 410, "maxHeight": 420 },
   // --- LIVE
@@ -51,7 +51,7 @@
   { "bannertype": "4across", "breakpointsize": "lg", "width": 315, "targetHeight": 400, "minHeight": 355, "maxHeight": 400 },
   { "bannertype": "4across", "breakpointsize": "md", "width": 458, "targetHeight": 266, "minHeight": 266, "maxHeight": 289 },
   { "bannertype": "4across", "breakpointsize": "sm", "width": 366, "targetHeight": 430, "minHeight": 250, "maxHeight": 430 },
-  { "bannertype": "4across", "breakpointsize": "xs", "width": 551, "targetHeight": 320, "minHeight": 320, "maxHeight": 410 },
+  { "bannertype": "4across", "breakpointsize": "xs", "width": 588, "targetHeight": 410, "minHeight": 320, "maxHeight": 430 },
   // --- SBA
   { "bannertype": "4across", "breakpointsize": "md", "width": 458, "minHeight": 400, "maxHeight": 400 },
   { "bannertype": "4across", "breakpointsize": "xs", "width": 551, "minHeight": 410, "maxHeight": 410 },
