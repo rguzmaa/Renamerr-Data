@@ -6,7 +6,14 @@
   { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "minHeight": 298 },
   { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "minHeight": 1185 },
   { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "minHeight": 857 },
-
+  // --- Carousel Hero
+  { "bannertype": "hero", "breakpointsize": "lg", "width": 1440, "targetHeight": 284, "minHeight": 284, "maxHeight": 284 },
+  { "bannertype": "hero", "breakpointsize": "md", "width": 1024, "targetHeight": 290, "minHeight": 290, "maxHeight": 290 },
+  { "bannertype": "hero", "breakpointsize": "sm", "width": 820, "targetHeight": 290, "minHeight": 290, "maxHeight": 290 },  
+  { "bannertype": "hero", "breakpointsize": "xs", "width": 600, "targetHeight": 290, "minHeight": 290, "maxHeight": 290 },
+  
+  
+  
   // SLIVER -- Added uses max height to prevent confusion with Hero banners
   { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "targetHeight": 220, "minHeight": 180, "maxHeight": 297 },
   { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "minHeight": 128, "maxHeight": 297 },
