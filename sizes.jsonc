@@ -166,6 +166,9 @@
   { "bannertype": "article", "breakpointsize": "sm", "width": 356, "targetHeight": 160, "minHeight": 160, "maxHeight": 160 },
   { "bannertype": "article", "breakpointsize": "xs", "width": 542, "targetHeight": 160, "minHeight": 160, "maxHeight": 160 },
 
+  // 3 CLICK BANNERS
+  { "bannertype": "3click", "breakpointsize": "lg", "width": 224, "targetHeight": 224, "minHeight": 224, "maxHeight": 224 },
+  { "bannertype": "3click", "breakpointsize": "md", "width": 200, "targetHeight": 200, "minHeight": 200, "maxHeight": 200 }
 
   // FOR TESTING
   { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1569, "minHeight": 756 },
