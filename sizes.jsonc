@@ -18,6 +18,9 @@
   { "bannertype": "sliver", "breakpointsize": "md", "width": 1024, "targetHeight": 222, "minHeight": 128, "maxHeight": 252 },
   { "bannertype": "sliver", "breakpointsize": "sm", "width": 820, "targetHeight": 252, "minHeight": 180, "maxHeight": 252 },
   { "bannertype": "sliver", "breakpointsize": "xs", "width": 600, "targetHeight": 410, "minHeight": 184, "maxHeight": 410 },
+  // --- TALL BANNER
+  { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "targetHeight": 500, "minHeight": 500, "maxHeight": 500 },
+  { "bannertype": "sliver", "breakpointsize": "md", "width": 820, "targetHeight": 380, "minHeight": 380, "maxHeight": 380 },
   // --- ONSITE - These need proper bannertypes
   { "bannertype": "sliver", "breakpointsize": "lg", "width": 1440, "targetHeight": 60, "minHeight": 60, "maxHeight": 100 },
   { "bannertype": "sliver", "breakpointsize": "md", "width": 1150, "targetHeight": 40, "minHeight": 40, "maxHeight": 100 },
