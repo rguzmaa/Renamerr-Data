@@ -109,7 +109,10 @@
   { "bannertype": "push", "breakpointsize": "lg", "width": 480, "targetHeight": 270, "minHeight": 270, "maxHeight": 270 },
 
   // APP - Flexible
-  { "bannertype": "app", "breakpointsize": "lg", "width": 576, "targetHeight": 275, "minHeight": 150, "maxHeight": 300 },
+  { "bannertype": "app", "breakpointsize": "lg", "width": 600, "targetHeight": 150, "minHeight": 75, "maxHeight": 550 },
+  { "bannertype": "app", "breakpointsize": "lg", "width": 576, "targetHeight": 150, "minHeight": 75, "maxHeight": 550 },
+  { "bannertype": "app", "breakpointsize": "lg", "width": 288, "targetHeight": 288, "minHeight": 288, "maxHeight": 288 },
+
 
 
   // SEARCH - Fixed
