@@ -108,6 +108,9 @@
   // PUSH - Fixed
   { "bannertype": "push", "breakpointsize": "lg", "width": 480, "targetHeight": 270, "minHeight": 270, "maxHeight": 270 },
 
+  // APP - Flexible
+  { "bannertype": "app", "breakpointsize": "lg", "width": 576, "targetHeight": 275, "minHeight": 150, "maxHeight": 300 },
+
 
   // SEARCH - Fixed
   // --- Grid
