@@ -106,7 +106,8 @@
 
 
   // PUSH - Fixed
-  { "bannertype": "push", "breakpointsize": "lg", "width": 480, "targetHeight": 270, "minHeight": 270, "maxHeight": 270 },
+  { "bannertype": "push", "breakpointsize": "lg", "width": 960, "targetHeight": 540, "minHeight": 540, "maxHeight": 540 },
+  { "bannertype": "push", "breakpointsize": "sm", "width": 480, "targetHeight": 270, "minHeight": 270, "maxHeight": 270 },
 
   // APP - Flexible
   { "bannertype": "app", "breakpointsize": "lg", "width": 600, "targetHeight": 150, "minHeight": 75, "maxHeight": 550 },
