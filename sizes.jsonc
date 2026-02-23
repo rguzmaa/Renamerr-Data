@@ -172,6 +172,10 @@
   // POPULAR CATEGORIES - Fixed
   { "bannertype": "popcat", "breakpointsize": "lg", "width": 166, "targetHeight": 166, "minHeight": 166, "maxHeight": 166 },
 
+   // FINDER - Fixed
+  { "bannertype": "finder", "breakpointsize": "lg", "width": 820, "targetHeight": 180, "minHeight": 180, "maxHeight": 180 },
+  { "bannertype": "finder", "breakpointsize": "md", "width": 666, "targetHeight": 180, "minHeight": 180, "maxHeight": 180 },
+
 
   // ARTICLE - Fixed
   { "bannertype": "article", "breakpointsize": "lg", "width": 372, "targetHeight": 200, "minHeight": 200, "maxHeight": 200 },
