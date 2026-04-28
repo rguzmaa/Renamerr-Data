@@ -194,7 +194,7 @@
 
   // HOTSPOTS
   { "bannertype": "hotspot", "breakpointsize": "lg", "width": 1440, "minHeight": 420 },
-  { "bannertype": "hotspot", "breakpointsize": "xs", "width": 820, "minHeight": 578 },
+  { "bannertype": "hotspot", "breakpointsize": "sm", "width": 820, "minHeight": 578 },
 
   // FOR TESTING
   { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1569, "minHeight": 756 },
