@@ -84,13 +84,6 @@
   { "bannertype": "largecard", "breakpointsize": "sm", "width": 792, "targetHeight": 792, "minHeight": 792, "maxHeight": 792 },
   { "bannertype": "largecard", "breakpointsize": "xs", "width": 576, "targetHeight": 576, "minHeight": 576, "maxHeight": 576 },
 
-  // PRODUCT
-  { "bannertype": "product", "breakpointsize": "lg", "width": 744, "minHeight": 400 },
-  { "bannertype": "product", "breakpointsize": "md", "width": 460, "minHeight": 320 },
-  { "bannertype": "product", "breakpointsize": "sm", "width": 712, "minHeight": 320 },
-  { "bannertype": "product", "breakpointsize": "xs", "width": 1084, "minHeight": 320 },
-
-
   // MEDIUMCARD - Fixed
   { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 339, "targetHeight": 540, "minHeight": 540, "maxHeight": 540 },
   { "bannertype": "mediumcard", "breakpointsize": "md", "width": 234, "targetHeight": 372, "minHeight": 372, "maxHeight": 372 },
@@ -192,6 +185,16 @@
   // 3 CLICK BANNERS
   { "bannertype": "3click", "breakpointsize": "lg", "width": 224, "targetHeight": 224, "minHeight": 224, "maxHeight": 224 },
   { "bannertype": "3click", "breakpointsize": "md", "width": 200, "targetHeight": 200, "minHeight": 200, "maxHeight": 200 },
+
+  // PRODUCT
+  { "bannertype": "product", "breakpointsize": "lg", "width": 744, "minHeight": 400 },
+  { "bannertype": "product", "breakpointsize": "md", "width": 460, "minHeight": 320 },
+  { "bannertype": "product", "breakpointsize": "sm", "width": 712, "minHeight": 320 },
+  { "bannertype": "product", "breakpointsize": "xs", "width": 1084, "minHeight": 320 },
+
+  // HOTSPOTS
+  { "bannertype": "hotspot", "breakpointsize": "lg", "width": 1440, "minHeight": 420 },
+  { "bannertype": "hotspot", "breakpointsize": "xs", "width": 820, "minHeight": 578 },
 
   // FOR TESTING
   { "bannertype": "devsize", "breakpointsize": "devsize", "width": 1569, "minHeight": 756 },
