@@ -84,6 +84,12 @@
   { "bannertype": "largecard", "breakpointsize": "sm", "width": 792, "targetHeight": 792, "minHeight": 792, "maxHeight": 792 },
   { "bannertype": "largecard", "breakpointsize": "xs", "width": 576, "targetHeight": 576, "minHeight": 576, "maxHeight": 576 },
 
+  // PRODUCT
+  { "bannertype": "product", "breakpointsize": "lg", "width": 744, "minHeight": 400 },
+  { "bannertype": "product", "breakpointsize": "md", "width": 460, "minHeight": 320 },
+  { "bannertype": "product", "breakpointsize": "sm", "width": 712, "minHeight": 320 },
+  { "bannertype": "product", "breakpointsize": "xs", "width": 1084, "minHeight": 320 },
+
 
   // MEDIUMCARD - Fixed
   { "bannertype": "mediumcard", "breakpointsize": "lg", "width": 339, "targetHeight": 540, "minHeight": 540, "maxHeight": 540 },
